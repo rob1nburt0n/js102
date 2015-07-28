@@ -1,9 +1,9 @@
 # js102
 
 /*
-  1. Create a new Github project named js102.
-  2. Create a ~/workspace/js102 directory on your host machine.
-  3. Initialize the ~/workspace/js102 directory as a git project and attach it to your js102 Github project.
+  -1. Create a new Github project named js102.
+  -2. Create a ~/workspace/js102 directory on your host machine.
+  -3. Initialize the ~/workspace/js102 directory as a git project and attach it to your js102 Github project.
 
   4. Write a JavaScript function that accepts an array as an argument, and returns a new array that is sorted.
   5. Write a JavaScript function that accepts an array, and returns a new array that contains elements in the array you passed in that are larger than 25.
