@@ -37,10 +37,8 @@ $("#click").click(function() {
         
         divString += '<div class="number">' + outputArray[i] + '</div>';
         // console.log(divString);
-        
-     };    
-        $("#output").append(divString); 
-     
+      };    
+         $("#output").append(divString);  
   });
     
 });
@@ -54,3 +52,4 @@ $("#click").click(function() {
   
   // 13. Give each <div> a class of "number".
   // 
+
